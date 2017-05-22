@@ -12,7 +12,6 @@ import java.sql.*;
 /**
  * Created by Admin on 16.05.2017.
  *
- * test
  */
 @WebServlet(name = "Servlet")
 public class Servlet extends HttpServlet {
